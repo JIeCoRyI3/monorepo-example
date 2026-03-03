@@ -1,0 +1,12 @@
+[submodule "server-example"]
+	path = server-example
+	url = https://github.com/JIeCoRyI3/server-example.git
+[submodule "web-platform-example"]
+	path = web-platform-example
+	url = https://github.com/JIeCoRyI3/web-platform-example.git
+[submodule "mobile-app-example"]
+	path = mobile-app-example
+	url = https://github.com/JIeCoRyI3/mobile-app-example.git
+[submodule "admin-dashboard-example"]
+	path = admin-dashboard-example
+	url = https://github.com/JIeCoRyI3/admin-dashboard-example.git
